@@ -1,0 +1,31 @@
+INFO  | 2021-07-01 23:38:34 | [http-nio-8080-exec-3] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - rocketmanLogged in.
+INFO  | 2021-07-01 23:43:31 | [http-nio-8080-exec-17] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - stardust Logged in.
+INFO  | 2021-07-01 23:45:21 | [http-nio-8080-exec-24] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - maninblack Logged in.
+INFO  | 2021-07-01 23:45:40 | [http-nio-8080-exec-22] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - foofighter Logged in.
+INFO  | 2021-07-01 23:45:49 | [http-nio-8080-exec-23] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - markmersman Logged in.
+INFO  | 2021-07-01 23:46:25 | [http-nio-8080-exec-21] servlets.FrontControllerServlet (FrontControllerServlet.java:79) - maninbblack Failed to log in.
+INFO  | 2021-07-01 23:46:31 | [http-nio-8080-exec-25] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - maninblack Logged in.
+INFO  | 2021-07-01 23:47:34 | [http-nio-8080-exec-24] servlets.FrontControllerServlet (FrontControllerServlet.java:175) - Created a new Request with id: 47
+INFO  | 2021-07-01 23:48:49 | [http-nio-8080-exec-30] servlets.FrontControllerServlet (FrontControllerServlet.java:175) - Created a new Request with id: 48
+INFO  | 2021-07-01 23:49:36 | [http-nio-8080-exec-23] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - stardust Logged in.
+INFO  | 2021-07-02 10:11:04 | [http-nio-8080-exec-3] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - maninblack Logged in.
+INFO  | 2021-07-02 10:47:44 | [http-nio-8080-exec-3] servlets.FrontControllerServlet (FrontControllerServlet.java:79) - maninblack Failed to log in.
+INFO  | 2021-07-02 10:47:51 | [http-nio-8080-exec-4] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - maninblack Logged in.
+INFO  | 2021-07-02 10:49:33 | [http-nio-8080-exec-7] servlets.FrontControllerServlet (FrontControllerServlet.java:175) - Created a new Request with id: 49
+INFO  | 2021-07-02 10:50:03 | [http-nio-8080-exec-1] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - stardust Logged in.
+INFO  | 2021-07-02 10:51:47 | [http-nio-8080-exec-2] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - maninblack Logged in.
+INFO  | 2021-07-02 10:52:38 | [http-nio-8080-exec-7] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - maninblack Logged in.
+INFO  | 2021-07-02 10:53:24 | [http-nio-8080-exec-2] servlets.FrontControllerServlet (FrontControllerServlet.java:175) - Created a new Request with id: 50
+INFO  | 2021-07-02 10:54:05 | [http-nio-8080-exec-6] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - stardust Logged in.
+INFO  | 2021-07-02 10:55:01 | [http-nio-8080-exec-5] servlets.FrontControllerServlet (FrontControllerServlet.java:175) - Created a new Request with id: 51
+INFO  | 2021-07-02 10:55:26 | [http-nio-8080-exec-3] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - foofighter Logged in.
+INFO  | 2021-07-02 10:56:09 | [http-nio-8080-exec-4] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - markmersman Logged in.
+INFO  | 2021-07-02 10:57:01 | [http-nio-8080-exec-1] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - maninblack Logged in.
+INFO  | 2021-07-02 10:57:48 | [http-nio-8080-exec-6] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - markmersman Logged in.
+INFO  | 2021-07-02 10:58:13 | [http-nio-8080-exec-7] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - maninblack Logged in.
+INFO  | 2021-07-02 10:58:45 | [http-nio-8080-exec-9] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - markmersman Logged in.
+INFO  | 2021-07-02 10:59:30 | [http-nio-8080-exec-7] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - maninblack Logged in.
+INFO  | 2021-07-02 10:59:40 | [http-nio-8080-exec-10] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - markmersman Logged in.
+INFO  | 2021-07-02 10:59:51 | [http-nio-8080-exec-1] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - stardust Logged in.
+INFO  | 2021-07-02 11:00:04 | [http-nio-8080-exec-8] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - markmersman Logged in.
+INFO  | 2021-07-02 11:00:24 | [http-nio-8080-exec-7] servlets.FrontControllerServlet (FrontControllerServlet.java:75) - stardust Logged in.

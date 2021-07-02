@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body onload="getEmp()">
+    <div class= center>
+    <h1>New Request</h1>
+    <br>
+    <label >Event Type: </label>
+    <select name="" id="evType">
+        <option value="Seminar">Seminar</option>
+        <option value="Certification Preperation Class">Certification Preperation Class</option>
+        <option value="Certification">Certification</option>
+        <option value="Technical Training">Technical Training</option>
+        <option value="University Course">University Course</option>
+        <option value="Other">Other</option>
+    </select>
+    <br>
+    <label >Event Description: </label>
+    <input type="text" name="evDescIn" id="evDesc">
+    <br>
+    <label >Event Location:</label>
+    <input type="text" name="" id="evLoc">
+    <br>
+    <label for="">Event Time:</label>
+    <input type="time" name="" id="evTime">
+    <br>
+    <label for="">Start Date:</label>
+    <input type="date" name="" id="sDate">
+    <br>
+    <label for="">Time Missed(Hours):</label>
+    <input type="text" name="" id="tMissed">
+    <br>
+    <label for="">Grading Format:</label>    
+    <select name="" id="gFormat">
+        <option value="1">Letter Grade</option>
+        <option value="2">Pass/Fail</option>
+        <option value="3">Project</option>
+        <option value="4">Participation Certificate</option>
+    </select>
+    <br>
+    <label for="">Passing Grade:</label>
+    <input type="text" name="" id="pGrade">
+    <br>
+
+    <br>
+    <label for="">Event Cost:</label>
+    <input type="text" name="" id="eCost">
+    
+    <br>
+    <button onclick="Back()">Back</button>
+    <button onclick="Submit()">Submit</button>
+    </div>
+    <div id='withinWeek' style="background-color: crimson;"></div>
+    <script src="NewRequest.js"></script>
+</body>
+</html>

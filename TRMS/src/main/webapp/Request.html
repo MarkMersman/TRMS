@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Request</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+</head>
+<body onload="getInfo()">
+    <div class= 'row'>
+    <div id = "ReqDetails" class="col-md-6 border border-primary">
+    <h1 style="background-color: cornflowerblue;">Request Details</h1>
+    <br>
+    <label ><h5 id ="EmpName"></h5></label>
+    <br>
+    <label ><h5 id ="reqDate"></h5></label>
+    <br>
+    <label ><h5 id ="evType"></h5></label>
+    <br>
+    <label ><h5 id ="evDesc"></h5></label>
+    <br>
+    <label ><h5 id ="evLoc"></h5></label>
+    <br>
+    <label ><h5 id ="sDate"></h5></label>
+    <br>
+    <label ><h5 id ="evMissedTime"></h5></label>
+    <br>
+    <label ><h5 id ="evCost"></h5></label>
+    <br>
+    <label ><h5 id ="evGradeFormat"></h5></label>
+    <br>
+    <label ><h5 id ="evPassingGrade"></h5></label>
+    <br>
+    <label ><h5 id ="supApp"></h5></label>
+    <br>
+    
+    <label ><h5 id ="dhApp"></h5></label>
+    <br>
+    <label ><h5 id ="bcApp"></h5></label>
+    <br>
+    <label ><h5 id ="reqStatus"></h5></label>
+    <br>    
+    <label ><h5 id ="reqInfo"></h5></label>
+    <br>
+    <div id = 'infoRequested'></div>
+    </div>
+    <div id = "reimDetails" class="col-md-6 border border-secondary ">
+    <h1 style="background-color: crimson;">Reimbursement Details</h1>
+    <br>
+    <label ><h5 id ="id"></h5></label>
+    <br>
+    <label ><h5 id ="req"></h5></label>
+    <br>
+    
+    <label ><h5 id ="amt"></h5></label>
+    <br>
+    <label ><h5 id ="amtEx"></h5></label>
+    <br>
+    <label ><h5 id ="exReason"></h5></label>
+    <br>
+    <div id = "BenCoEdit"></div>
+    
+    <label ><h5 id ="reimStatus"></h5></label>
+    <br>    
+    <label ><h5 id ="grade"></h5></label>
+    <br>
+    <div id = gradeApprove></div>
+    <br>
+    </div>
+    </div>
+    
+    <div id = "buttons">
+    <button onclick="Back()">Back</button>
+    <button onclick="denyReason()">Deny</button>
+    <button onclick="Approve()">Approve</button>
+    <button onclick="reqMoreInfo()">Request More Info</button>
+    </div>
+
+
+    <script src="Request.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+</body>
+</html>
